@@ -259,6 +259,7 @@ persist.vendor.radio.start_ota_daemon=0
 persist.vendor.radio.suppress_ussd_rel=1
 persist.vendor.radio.sw_mbn_update=0
 persist.vendor.rcs.presence.provision=0
+persist.radio.multisim.config=dsds
 
 # Sensors
 persist.vendor.sensors.allow_non_default_discovery=true
