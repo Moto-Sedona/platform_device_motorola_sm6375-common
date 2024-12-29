@@ -1,4 +1,5 @@
 # Camera
+camera.mot.apps.activity.value    u:object_r:moto_camera_config_prop:s0
 camera.mot.is.coming.cts   u:object_r:moto_camera_config_prop:s0 exact bool
 ro.camera.req.fmq.size     u:object_r:moto_camera_config_prop:s0 exact bool
 ro.camera.res.fmq.size     u:object_r:moto_camera_config_prop:s0 exact bool
